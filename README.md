@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=1000&color=007ACC&center=true&vCenter=true&width=500&lines=Naresh+Ramesh+Khanderay;Aspiring+Data+Analyst;Big+Data+%7C+Python+%7C+Power+BI+%7C+SQL" alt="Typing SVG" />
+</p>
+
+
 # Naresh Ramesh Khanderay
 
 Aspiring Data Analyst with a solid academic foundation in statistics and hands-on experience with big data technologies. Currently pursuing a PG Diploma in Big Data Analytics and an MSc in Statistics (2024). I’m passionate about transforming raw data into actionable insights and eager to contribute to real-world analytics and data engineering projects.
