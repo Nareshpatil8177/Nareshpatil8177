@@ -1,83 +1,83 @@
-# 👋 Hi there, I'm Naresh Ramesh Khanderay
+# Naresh Ramesh Khanderay
 
-📍 Dhule, Maharashtra, India  
-🎯 Aspiring Data Analyst with a strong foundation in statistics and big data tools  
-📚 Currently pursuing PG Diploma in Big Data Analytics & MSc in Statistics (2024)
+Aspiring Data Analyst with a solid academic foundation in statistics and hands-on experience with big data technologies. Currently pursuing a PG Diploma in Big Data Analytics and an MSc in Statistics (2024). I’m passionate about transforming raw data into actionable insights and eager to contribute to real-world analytics and data engineering projects.
 
 ---
 
-## 🎯 Career Objective
+## About Me
 
-Aspiring Data Analyst with a strong foundation in statistics and big data tools.  
-Currently pursuing PG Diploma in Big Data Analytics and MSc in Statistics (2024).  
-Eager to apply analytical and technical skills in solving real-world data challenges.  
-Open to Data Analyst, Big Data Engineer, and Business Analyst roles (Remote/Onsite/Hybrid).
-
----
-
-## 🎓 Education
-
-- 📘 **PG Diploma in Big Data Analytics** – 2025 (Ongoing)  
-- 🎓 **MSc in Statistics** – Z.B. Patil College, Dhule – 2024 – *63.83%*  
-- 🎓 **BSc in Statistics** – Z.B. Patil College, Dhule – 2022 – *65.92%*  
-- 🧪 **HSC (Science, PCMB)** – SSVP's College, Dhule – 2019 – *51.85%*  
-- 📘 **SSC** – STTK Mahajan High School, Dhule – 2017 – *60.00%*
+- Based in Dhule, Maharashtra, India
+- Open to Data Analyst, Big Data Engineer, and Business Analyst roles (Remote, Onsite, or Hybrid)
+- Focused on solving real-world data problems using data science, big data, and analytics tools
+- Quick learner, strong communicator, and an organized team player
 
 ---
 
-## 📊 Projects
+## Education
 
-### 🔹 **Olist E-Commerce Analysis (PG-DBDA)**
-- Performed sales prediction and sentiment analysis using **Spark**, **Hive**, and **Python**
-- Built sentiment classification model using **Hugging Face Transformers**
-- Created interactive dashboards in **Power BI** to visualize trends and KPIs
+**PG Diploma in Big Data Analytics**  
+*Centre for Development of Advanced Computing (C-DAC)*  
+2025 (Ongoing)
 
-### 🔹 **Attitude of College Students Towards Entrepreneurship (MSc Project)**
-- Conducted survey-based statistical analysis
-- Applied **hypothesis testing**, **correlation analysis** using **SPSS** and **Excel**
+**MSc in Statistics**  
+Z.B. Patil College, Dhule – 2024  
+Percentage: 63.83%
 
-### 🔹 **Statistical Analysis of Stock Market (Academic Project)**
-- Analyzed stock price trends and statistical indicators using **R**
+**BSc in Statistics**  
+Z.B. Patil College, Dhule – 2022  
+Percentage: 65.92%
 
----
+**HSC (Science, PCMB)**  
+SSVP's College, Dhule – 2019  
+Percentage: 51.85%
 
-## 💼 Technical Skills
-
-### 👨‍💻 Programming
-- Python, SQL, R
-
-### 📊 Visualization
-- Power BI, Tableau
-
-### 🏢 Big Data Tools
-- Apache Spark, Hive, Hadoop
-
-### 🧮 Statistical Tools
-- SPSS, Excel
-
-### 🔧 Other Tools
-- Microsoft Word, PowerPoint, Linux
-
-### 🧠 Soft Skills
-- Communication, Time Management, Leadership, Multitasking
+**SSC**  
+STTK Mahajan High School, Dhule – 2017  
+Percentage: 60.00%
 
 ---
 
-## 🌐 Languages & Interests
+## Projects
 
-- **Languages:** English, Hindi, Marathi  
-- **Hobbies:** Travelling, Trekking, Farming, Cricket, Learning new things
+**Olist E-Commerce Analysis (PG-DBDA Project)**  
+- Performed sales prediction and sentiment analysis using Apache Spark, Hive, and Python  
+- Built a sentiment classification model using Hugging Face Transformers  
+- Created interactive dashboards using Power BI to showcase KPIs and trends  
+
+**Attitude of College Students Towards Entrepreneurship (MSc Project)**  
+- Conducted survey-based research and statistical analysis  
+- Applied hypothesis testing and correlation analysis using SPSS and Excel  
+
+**Statistical Analysis of Stock Market (Academic Project)**  
+- Explored trends and relationships in stock data using R  
+- Applied descriptive statistics and time-series analysis techniques  
 
 ---
 
-## 📫 Contact Me
+## Technical Skills
 
-- ✉️ **Email:** nareshpatil8177@gmail.com  
-- 📞 **Phone:** +91-8999100235  
-- 🌍 **Location:** Dhule, Maharashtra  
-<!-- You can add LinkedIn or Portfolio links below if available -->
-<!-- - 💼 [LinkedIn](#) -->
+**Programming:** Python, SQL, R  
+**Big Data Tools:** Apache Spark, Hive, Hadoop  
+**Visualization Tools:** Power BI, Tableau  
+**Statistical Tools:** SPSS, Excel  
+**Other Tools:** Microsoft Word, PowerPoint, Linux  
+**Soft Skills:** Communication, Time Management, Leadership, Multitasking
 
 ---
 
-> _“Turning data into decisions, and curiosity into solutions.”_ 🚀
+## Languages & Interests
+
+**Languages:** English, Hindi, Marathi  
+**Hobbies & Interests:** Travelling, Trekking, Farming, Cricket, and Continuous Learning
+
+---
+
+## Contact
+
+**Email:** nareshpatil8177@gmail.com  
+**Phone:** +91-8999100235  
+**Location:** Dhule, Maharashtra
+
+---
+
+*“Turning data into decisions, and curiosity into solutions.”*
